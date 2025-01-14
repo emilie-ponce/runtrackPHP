@@ -11,8 +11,8 @@
     $val += 4;
     echo $val;
 
-    $myBool = "true";
+    $myBool = true;
     echo $myBool;
-    $myBool = "false";
+    $myBool = false;
     echo $myBool;
 ?>
