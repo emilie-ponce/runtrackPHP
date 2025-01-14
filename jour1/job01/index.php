@@ -10,4 +10,9 @@
     echo $val;
     $val += 4;
     echo $val;
+
+    $myBool = "true";
+    echo $myBool;
+    $myBool = "false";
+    echo $myBool;
 ?>
