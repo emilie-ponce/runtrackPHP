@@ -7,4 +7,4 @@
         $i++;
     }
     echo "Le nombre de caractères dans la chaîne est:" . $compteur;
-?>
+// ?>
