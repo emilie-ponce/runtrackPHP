@@ -1,3 +1,7 @@
+<?php
+    echo "Le nombre d'arguments GEPOSTT est :" . count($_POST);
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
