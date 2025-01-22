@@ -22,7 +22,7 @@
 <body>
     <p>Nombre de visites : <?php echo $_SESSION['nbvisites'];?></p>
     <form method="post">
-        <button type="submit" name="reset">Réinitialiser le compteur</button>
+        <button type="submit" name="reset">reset</button>
     </form>
 </body>
 </html>
