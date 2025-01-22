@@ -1,1 +1,1 @@
-SELECT * FROM etudiants WHERE naissance < 18;
+SELECT * FROM etudiants WHERE naissance < 18
